@@ -17,15 +17,6 @@ python manage.py runserver
 ### TECHNOLOGIES
 - python
 - Django
-- Angular 
-- Angular Material
-- Json Server
-- NGX-Infinite-Scroll
-- RxJS 
-- Paginação 
-- Filtros 
-- Rest 
-- Parametrização
 
 ## implemetations
 
