@@ -20,10 +20,10 @@ python manage.py runserver
 
 ## implemetations
 
-- CREATE
-- READ
-- UPDATE
-- DELETE
-- LOGIN
-- LOGOUT
+- CREATE PET
+- READ PETS
+- UPDATE PET
+- DELETE PET
+- LOGIN USER
+- LOGOUT USER
 - MEDIA FILES
