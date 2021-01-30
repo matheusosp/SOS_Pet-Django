@@ -1,4 +1,4 @@
-![Foo](https://raw.githubusercontent.com/matheusosp/angular-Cinema/main/Cinema%20management%20.jpg)
+![Foo](https://raw.githubusercontent.com/matheusosp/SOS_Pet-Django/main/SOS%20PET.jpg)
 
 
 ## TO RUN LOCALLY
@@ -13,8 +13,6 @@ python manage.py migrate
 python manage.py createsuperuser
 python manage.py runserver
 ```
-
-![Foo](https://raw.githubusercontent.com/matheusosp/SOS_Pet-Django/main/SOS%20PET.jpg)
 
 ### TECHNOLOGIES
 - python
