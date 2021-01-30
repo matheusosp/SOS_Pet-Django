@@ -14,7 +14,7 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 
-![Foo](https://raw.githubusercontent.com/matheusosp/DjangoComAngular/main/Management%20of%20Members%20-%20Google%20Chrome.jpg)
+![Foo](https://raw.githubusercontent.com/matheusosp/SOS_Pet-Django/main/SOS%20PET.jpg)
 
 ### TECHNOLOGIES
 - python
